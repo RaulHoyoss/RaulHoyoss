@@ -1,4 +1,4 @@
-## Hi IM Raul Hoyos 👋
+## Hi im Raul Hoyos 👋
 
 <!--
 **RaulHoyoss/RaulHoyoss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
