@@ -7,7 +7,7 @@
 **Bhargavi-hash/Bhargavi-hash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-<img align="right" width=300px alt="Unicorn" src="https://tenor.com/es/view/awesome-rachel-smith-rachels-english-cool-amazing-gif-25298197" />
+<img align="right" width=300px alt="Unicorn" src="https://media.tenor.com/-3zF_lxuWvgAAAAj/tkthao219-bubududu.gif" />
 
  <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
