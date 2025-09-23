@@ -34,3 +34,18 @@ I am an undergraduate Computer science and Engineering student at the Polytechni
     <img src="https://skillicons.dev/icons?i=git,css,postgres,github,html,kotlin,java,js,mysql,nodejs,postman,tailwind,vscode&perline=14" />
   </a>
 </p>
+
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+  <a href="https://github.com/RaulHoyoss">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=RaulHoyoss&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  </a>
+  <a href="https://github.com/RaulHoyoss">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=RaulHoyoss&layout=compact&langs_count=8&theme=algolia"/>
+  </a>
+</p>
+
+<p align="center">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=RaulHoyoss&theme=dark&hide_border=true"/>
+</p>
