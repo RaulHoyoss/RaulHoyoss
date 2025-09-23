@@ -46,6 +46,4 @@ I am an undergraduate Computer science and Engineering student at the Polytechni
   </a>
 </p>
 
-<p align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=RaulHoyoss&theme=dark&hide_border=true"/>
-</p>
+
