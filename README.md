@@ -18,5 +18,5 @@ I am an undergraduate Computer science and Engineering student at the Polytechni
   - React js
 - 👯 I am looking for an internship to combine with my final year project (TFG).
 - ✔ Ask me about anything, I am happy to help.😉<br>
-- Outside tech, 💪🏻I love working out , 🎵 listen to music, and 🌴 explore nature outdoors.
+- Outside tech, 💪🏻I love working out, 🎵 listen to music and 🌴 explore nature outdoors.
 - 📫 Reach out to me at: <a href="raulhzmgl@gmail.com">raulhzmgl@gmail.com</a>
