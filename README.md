@@ -14,9 +14,9 @@
 I am an undergraduate Computer science and Engineering student at the Polytechnic University of Valencia (UPV). I love to learn and build something new, productive, innovative and creative.
 * **I am interested in web design (mainly frontend) and digital marketing.**
 - 🌱 I’m currently learning ...
-  - Java
+  - Phyton
   - React js
-- 👯 I’m looking forward to collaborate on open source projects.
-- ✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉<br>
-- Outside tech, 📖 I love to read novels, 🖌️ do painting and skecthing, 🎵 listen to music, and 🌴 explore nature outdoors.
-- 📫 Reach out to me at: <a href="bhargavi.kurukunda@students.iiit.ac.in">bhargavi.kurukunda@students.iiit.ac.in</a>
+- 👯 I am looking for an internship to combine with my final year project (TFG).
+- ✔ Ask me about anything, I am happy to help.😉<br>
+- Outside tech, 💪🏻I love working out , 🎵 listen to music, and 🌴 explore nature outdoors.
+- 📫 Reach out to me at: <a href="raulhzmgl@gmail.com">raulhzmgl@gmail.com</a>
