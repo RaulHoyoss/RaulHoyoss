@@ -20,3 +20,17 @@ I am an undergraduate Computer science and Engineering student at the Polytechni
 - ✔ Ask me about anything, I am happy to help.😉<br>
 - Outside tech, 💪🏻I love working out, 🎵 listen to music and 🌴 explore nature outdoors.
 - 📫 Reach out to me at: <a href="raulhzmgl@gmail.com">raulhzmgl@gmail.com</a>
+
+
+<!--h1 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
+  </ul>
+</div>
+<!--tech stack icons-->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,aws,cpp,css,discord,docker,postgres,prisma,pug,dynamodb,express,figma,firebase,redis,github,html,java,js,linux,md,materialui,nginx,mongodb,mysql,nextjs,nodejs,postman,py,react,redux,tailwind,ts,vscode,kubernetes&perline=14" />
+  </a>
+</p>
